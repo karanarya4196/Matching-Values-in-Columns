@@ -1,6 +1,6 @@
-# Overview of the functionalities in Pandas library.
+# Overview of the Functionalities in Pandas Library
 
-### You can explore the code snippets of the following:
+### You can explore the Python 3.6 code snippets of the following:
 1. Matching Values in Columns
 2. Reading and Selection of Data
 3. Reading Data from SQL Database
